@@ -15,20 +15,10 @@
 .nav__link {
     color: #2e363e;
     position: relative;
+    font-size: 24px;
 }
 .nav__notification {
-    background-color: tomato;
-    color: white;
-    display: flex;
-    align-items: center;
-    justify-content: center;
     position: absolute;
-    width: 30px;
-    height: 30px;
-    border-radius: 15px;
-    font-weight: 600;
-    left: 20px;
-    bottom: 15px;
 }
 .nav__circle {
     font-weight: 0.1;

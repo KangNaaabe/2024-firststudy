@@ -7,8 +7,11 @@
 @import 'components/status-bar.css';
 @import 'components/nav-bar.css';
 @import 'components/screen-header.css';
+@import 'components/user-component.css';
+@import 'components/badge.css';
 /* screens */
 @import 'screens/login.css';
+@import 'screens/friends.css';
 
 body {
     font-family: 'Open Sans', sans-serif;
@@ -16,4 +19,8 @@ body {
     font-weight: 400;
     font-style: normal;
     font-variation-settings: 'wdth' 100;
+    color: #2e363e;
+}
+.main-screen {
+    padding: 0px var(--horizontal-space);
 }
