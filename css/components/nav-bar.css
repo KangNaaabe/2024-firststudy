@@ -22,7 +22,7 @@
 }
 .nav__circle {
     font-weight: 0.1;
-    font-size: xx-small;
+    font-size: 7px;
     color: tomato;
     display: flex;
     align-items: center;
